@@ -70,11 +70,12 @@ Improvements for the next CRISP cycle:
 - Create a Model Deployment and put the model into production;
 - Collect more data for analysis
     Hypotheses for Future Analysis:
-    1.People with a previous heart disease should have more cardio disease.
-    2.People with a family history of heart disease should have more cardio disease.
-    3.People with autoimmune diseases should have more cardio disease.
-    4.People with psychological illnesses like anxiety and depression should have more cardio disease.
-    5.People with triglycerides higher then 200mg/dL should have more cardio disease.
-    6.People with glucose (fasting) higher then 125mg/dL should have more cardio disease.
-    7.People who drink should have more cardio disease.
-    8.People who eat healthily should have less cardio disease.
+    
+    1. People with a previous heart disease should have more cardio disease.
+    2. People with a family history of heart disease should have more cardio disease.
+    3. People with autoimmune diseases should have more cardio disease.
+    4. People with psychological illnesses like anxiety and depression should have more cardio disease.
+    5. People with triglycerides higher then 200mg/dL should have more cardio disease.
+    6. People with glucose (fasting) higher then 125mg/dL should have more cardio disease.
+    7. People who drink should have more cardio disease.
+    8. People who eat healthily should have less cardio disease.
