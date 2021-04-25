@@ -1,4 +1,4 @@
-# Cardiovascular-Cath-Disease
+# Cardiovascular Disease Detection
 
 ## The Cardio Catch Diseases (CCD) Company
 Cadio Catch Diseases is a company that specializes in detecting heart disease in the early stages. Its business model is Service type, that is, the company offers an early diagnosis of cardiovascular disease for a certain price.
